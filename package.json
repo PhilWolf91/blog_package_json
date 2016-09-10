@@ -1,0 +1,13 @@
+{
+    "name": "blog_package_json",
+    "version": "v1.0.0",
+    "author":{
+        "name": "Phil Wolf",
+        "email": "Phillip.wolf91@gmail.com",
+        "url": "Phillipwolf91.wordpress.com"
+    },
+    "dependencies": {
+        "angular": "1.5.8",
+        "jQuery" : "~1.7.4"
+    }
+}
